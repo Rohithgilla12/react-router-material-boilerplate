@@ -1,3 +1,12 @@
+ Many developers including me feel bored doing some routine stuff ordinarily whenever we set up a project. That's where boilerplates come to the rescue.
+
+So I personally use [Material UI](https://github.com/mui-org/material-ui/) for the components and icons and [React Router](https://github.com/ReactTraining/react-router) for routing in react applications. I felt building a boilerplate template for this would benefit quite a few developers.
+
+So I developed [this](https://github.com/Rohithgilla12/react-router-material-boilerplate/). You can click on the `Use this template` button on the GitHub. It asks for the repository name and `Et Voila` your react app with `react-router`, `material-ui` and `material-icons`.
+
+Feel free to fork the repo, create issues, make PRs.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +75,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Peace ✌🏻
+Rohith Gilla
