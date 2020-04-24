@@ -7,12 +7,15 @@ import Home from "./pages/Home";
 function App() {
   return (
     <Router>
+      <Navbar />
       <div className="App">
-        <Navbar />
         <header className="App-header">
           <Switch>
             <Route path="/about">
               <About />
+            </Route>
+            <Route path="/users">
+              <Users />
             </Route>
             <Route path="/">
               <Home />
@@ -22,6 +25,10 @@ function App() {
       </div>
     </Router>
   );
+}
+
+function Users() {
+  return <h2>Users</h2>;
 }
 
 export default App;
